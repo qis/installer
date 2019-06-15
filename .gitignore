@@ -1,0 +1,11 @@
+/*
+.*
+*.aps
+!/doc/
+!/res/
+!/src/
+!/.clang-format
+!/.gitattributes
+!/.gitignore
+!/CMakeLists.txt
+!/solution.cmd
